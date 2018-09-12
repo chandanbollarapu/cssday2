@@ -1,0 +1,23 @@
+.main{
+width:100%;
+}
+.one{
+    width:30%;
+    height:200px;
+    background-color: red;
+    
+}
+.two{
+    width:30%;
+    height:200px;
+    background-color: green;
+   
+
+    
+}
+.three{
+    width:30%;
+    height:200px;
+    background-color: black;
+    
+}
